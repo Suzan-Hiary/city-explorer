@@ -21,12 +21,24 @@ Ali Al-Hajouj
 
 
 
-Name of feature: ________________________________
+Name of feature: ____________form____________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __1 hr___
 
-Start time: _____
+Start time: ___2:30__
 
-Finish time: _____
+Finish time: ___3:00__
 
-Actual time needed to complete: _____
+Actual time needed to complete: __30___
+
+
+
+Name of feature: ____________map____________________
+
+Estimate of time needed to complete: __30 min___
+
+Start time: ___3:30__
+
+Finish time: ___4:30__
+
+Actual time needed to complete: __1_hr__

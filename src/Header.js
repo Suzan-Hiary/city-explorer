@@ -23,9 +23,10 @@ export class Header extends Component {
         let url = `https://eu1.locationiq.com/v1/search.php?key=pk.60346fba30221450f0bd55e67928ff53&q=${this.state.cityName}&format=json`
         axios.get(url).then(res => {
             let data = res.data[0]
-
+            // array: (e.target.value == 0 ? Data : Data.filter((item )=> item.horns == e.target.value 
+            
             this.setState({
-                cityName: data.display_name,
+                cityName: (e.target.value === 0 || '' ? alert('error' ) :  data.display_name) ,
                 lat: data.lat,
                 lon: data.lon
             })
