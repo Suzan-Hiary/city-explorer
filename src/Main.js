@@ -11,6 +11,7 @@ export class Main extends Component {
                     <h1>{this.props.cityName}</h1>
                     <h2>{this.props.lat}</h2>
                     <h2>{this.props.lon}</h2>
+                   
                 </>
             
             

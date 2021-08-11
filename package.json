@@ -36,5 +36,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "**Author**: Suzan Hiary **Version**: 1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suzan-Hiary/city-explorer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suzan-Hiary/city-explorer/issues"
+  },
+  "homepage": "https://github.com/Suzan-Hiary/city-explorer#readme"
 }
